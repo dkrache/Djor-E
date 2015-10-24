@@ -1,0 +1,36 @@
+{
+  "name": "Djor-E",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "fs": "^0.0.2",
+    "path": "^0.12.7",
+    "say": "^0.6.0",
+    "socket.io": "^1.3.7",
+    "socket.io-stream": "^0.8.0",
+    "sys": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dkrache/Djor-E.git"
+  },
+  "keywords": [
+    "speak",
+    "cam",
+    "robot",
+    "djory"
+  ],
+  "author": "Djory Krache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkrache/Djor-E/issues"
+  },
+  "homepage": "https://github.com/dkrache/Djor-E"
+}
