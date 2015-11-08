@@ -7,6 +7,7 @@ var socket = io.connect('http://192.168.0.17:8080');
 			if (info.image) {
 				img.src = 'data:image/jpeg;base64,' + info.buffer;
 			}
+			console.log("fuck");
 		});
 	})
 })();
